@@ -1,0 +1,1 @@
+[03-Sep-2018 22:29:58 +0200]: DB Error: Configuration error. Unsupported database driver:  in C:\xampp\htdocs\NET\ENT\roundcubemail-1.3.7\program\lib\Roundcube\rcube_db.php on line 83 (GET /net/ent/roundcubemail-1.3.7/)
